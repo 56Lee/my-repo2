@@ -1,2 +1,2 @@
-Hello Git
 This is a Git practic file.
+add my practice
